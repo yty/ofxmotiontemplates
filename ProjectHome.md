@@ -1,0 +1,1 @@
+An easy to use <a href='http://www.openframeworks.cc'>OpenFrameworks</a> addon to handle OpenCv's Motion Templates.
